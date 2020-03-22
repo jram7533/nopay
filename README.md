@@ -1,11 +1,11 @@
 # nopay
 a little script for non-paying clients
 
+```
 /*
     add this script to client's landing page as needed
 */
 
-```
 var daysDeadline = 30;
 
 var body = document.getElementsByTagName('body')[0];
