@@ -5,6 +5,9 @@
 var daysDeadline = 30;
 var body = document.getElementsByTagName('body')[0];
 
+//this can make it a little more dramatic:
+// body.style.background = '#000';
+
 body.style.opacity = 1;
 
 var interval = setInterval(function(){ 
